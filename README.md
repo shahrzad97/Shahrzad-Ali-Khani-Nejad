@@ -50,7 +50,7 @@ Developed a web application for **real-time exercise monitoring for elderly user
 - Used **WebSocket** for low-latency (<100 ms) interaction  
 - Enabled **remote monitoring** and feedback for doctors  
 🧩 Tech: React · TypeScript · Node.js · Vite · WebSocket · Rust · Bootstrap  
-🔗 [Project Repository](https://github.com/shahrzad97/Interactive-Real-Time-Exercise-Monitoring-System-with-Visual-and-Audio-Feedback)
+🔗 [Project Repository](https://github.com/shahrzad97/Interactive-Real-Time-Exercise-Monitoring-System-with-Visual-and-Audio-Feedback-)
 
 ---
 
