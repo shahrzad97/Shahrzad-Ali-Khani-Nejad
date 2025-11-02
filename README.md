@@ -31,7 +31,7 @@ Master’s graduate in **Computer Engineering for Robotics and Smart Industry** 
 I build modern, responsive web applications with a focus on **user-centered design**, **real-time data interaction**, and **data-driven decision support**.
 
 💡 Passionate about merging design, data, and technology to create smart and intuitive digital solutions.  
-🗣️ Languages: Persian (native) · English (C1) · Italian (B1 – improving daily)  
+🗣️ Languages: English (C1) · Italian (B1 – improving daily) · Persian (native)
 
 ---
 
