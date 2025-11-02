@@ -9,6 +9,9 @@
 [![Email](https://img.shields.io/badge/Email-shahrzad.alikhaninejad%40gmail.com-red?logo=gmail)](mailto:shahrzad.alikhaninejad@gmail.com)
 [![Location](https://img.shields.io/badge/Verona%2C%20Italy-🏠-lightgrey)](https://goo.gl/maps/)
 
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/MAUI-5C2D91?logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
