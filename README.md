@@ -4,8 +4,6 @@
 # 💻 Shahrzad Ali Khani Nejad  
 ### Computer Engineer • Full-Stack Developer • Data Analytics & AI Enthusiast  
 
-[![GitHub](https://img.shields.io/badge/GitHub-shahrzad97-black?logo=github)](https://github.com/shahrzad97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahrzad%20Ali%20Khani%20Nejad-blue?logo=linkedin)](https://www.linkedin.com/in/shahrzad-ali-khani-nejad-708433153)
 [![Email](https://img.shields.io/badge/Email-shahrzad.alikhaninejad%40gmail.com-red?logo=gmail)](mailto:shahrzad.alikhaninejad@gmail.com)
 [![Location](https://img.shields.io/badge/Verona%2C%20Italy-🏠-lightgrey)](https://goo.gl/maps/)
 
