@@ -4,8 +4,6 @@
 # 💻 Shahrzad Ali Khani Nejad  
 ### Computer Engineer • Full-Stack Developer • Data Analytics & AI Enthusiast  
 
-[![Email](https://img.shields.io/badge/Email-shahrzad.alikhaninejad%40gmail.com-red?logo=gmail)](mailto:shahrzad.alikhaninejad@gmail.com)
-[![Location](https://img.shields.io/badge/Verona%2C%20Italy-🏠-lightgrey)](https://goo.gl/maps/)
 
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/MAUI-5C2D91?logo=dotnet&logoColor=white">
@@ -93,8 +91,8 @@ Attention to Detail · Time Management · Adaptability · User-Centered Creativi
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahrzad97-black?logo=github)](https://github.com/shahrzad97)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahrzad%20Ali%20Khani%20Nejad-blue?logo=linkedin)](https://www.linkedin.com/in/shahrzad-ali-khani-nejad-708433153)  
-📧 [shahrzad.alikhaninejad@gmail.com](mailto:shahrzad.alikhaninejad@gmail.com)  
-📍 Verona, Italy | 📞 +39 351 685 9197  
+[![Email](https://img.shields.io/badge/Email-shahrzad.alikhaninejad%40gmail.com-red?logo=gmail)](mailto:shahrzad.alikhaninejad@gmail.com)
+📍 Verona, Italy
 
 ---
 
